@@ -7,7 +7,7 @@ package com.ss.basics.day.one;
  * @author Hassankh
  *
  */
-// Public means it is acessable anywhere within the project.
+// Public means it is accessable anywhere within the project.
 // Private: Can be accessed only in one class
 // Protected:
 public class HelloWorld {
